@@ -14,7 +14,7 @@ body:
     id: version
     attributes:
       label: slAIve version
-      description: Paw menu → the version shown in Settings, or the zip name.
+      description: The name of the zip you downloaded, e.g. slAIve-0.1.1-2.zip
   - type: input
     id: macos
     attributes:
