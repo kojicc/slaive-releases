@@ -1,0 +1,9 @@
+name: An idea
+description: Something slAIve should do.
+body:
+  - type: textarea
+    id: idea
+    attributes:
+      label: What would you like slAIve to do, and why?
+    validations:
+      required: true
